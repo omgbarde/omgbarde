@@ -2,7 +2,6 @@
   - 🎓 2° year uni student 
   - 🏎️ I'm passionate about technology, music and cars
   - 🎧 i'm also a dj
-  - 
 <!--
 Here are some ideas to get you started:
 
