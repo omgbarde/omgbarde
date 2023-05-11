@@ -1,8 +1,9 @@
-### Hi there 👋
-
+### about me:
+  - 🎓 2° year uni student 
+  - 🏎️ I'm passionate about technology, music and cars
+  - 🎧 i'm also a dj
+  - 
 <!--
-**omgbarde/omgbarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
