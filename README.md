@@ -1,5 +1,6 @@
 ### about me:
-  - 🎓 4° year cse student 
+  - 🎓 4° year cse student
+  - 💻 IT Manager for Dynamis PRC
   - 🏎️ I'm passionate about technology, music and cars
   - 🎧 I'm also a dj
 <!--
