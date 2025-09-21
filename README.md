@@ -1,5 +1,5 @@
 ### about me:
-  - 🎓 4° year cse student
+  - 🎓 5th year cse student
   - 🏎️ I'm passionate about technology, music and cars
   - 🎧 I'm also a dj
 <!--
